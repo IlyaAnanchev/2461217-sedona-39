@@ -2,7 +2,7 @@
 
 * Студент: [Ilya Ananchev](https://up.htmlacademy.ru/htmlcss/39/user/2461217).
 * Наставник: [Оксана Вайнруб](https://htmlacademy.ru/profile/id166797).
-
+* Сайт: [Мой проект: Седона](https://ilyaananchev.github.io/2461217-sedona-39/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
