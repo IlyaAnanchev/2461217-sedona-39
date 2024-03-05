@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Ilya Ananchev](https://up.htmlacademy.ru/htmlcss/39/user/2461217).
-* Наставник: `Неизвестно`.
+* Наставник: [Оксана Вайнруб](https://htmlacademy.ru/profile/id166797).
 
 ---
 
